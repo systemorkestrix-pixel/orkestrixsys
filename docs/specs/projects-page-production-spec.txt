@@ -1,0 +1,857 @@
+# ORKESTRIX SYSTEMS — PROJECTS PAGE
+
+## DIRECT PRODUCTION SPECIFICATION
+
+## ROLE
+
+أنت تعمل على الموقع الرسمي لـ **Orkestrix Systems**.
+
+تم اعتماد:
+
+* Homepage
+* Services
+
+مهمتك الآن إنشاء صفحة:
+
+`/projects`
+
+هذه الصفحة هي **صفحة إثبات القدرة** للعلامة.
+
+لا تبنِ Gallery تقليدية.
+
+لا تجعلها Portfolio لشخص.
+
+لا تستخدم شبكة صور فقط.
+
+الهدف أن يفهم الزائر:
+
+> **ماذا واجه هذا المشروع؟ ماذا بنينا له؟ وكيف أصبح أفضل؟**
+
+---
+
+# 1. BRAND
+
+## Brand Name
+
+**Orkestrix Systems**
+
+## Category
+
+**Software Company**
+
+## Positioning
+
+**Digital Systems for Businesses**
+
+## Core Promise
+
+**من الفكرة إلى التشغيل.**
+
+## Domain
+
+**https://orkestrix.site**
+
+---
+
+# 2. ROLE OF THE PROJECTS PAGE
+
+Homepage تقول:
+
+> **من نحن وكيف نعمل**
+
+Services تقول:
+
+> **ماذا يمكننا أن نبني**
+
+Projects يجب أن تقول:
+
+> **هذا ما بنيناه وكيف حوّلنا الاحتياج إلى حل**
+
+إذن وظيفة الصفحة:
+
+**Proof → Trust → Understanding → Action**
+
+---
+
+# 3. BUSINESS OBJECTIVE
+
+الهدف النهائي:
+
+> **إقناع العميل بأن Orkestrix قادرة على تنفيذ مشروعه.**
+
+لا نريد فقط:
+
+> "مشاهدة صور جميلة."
+
+بل:
+
+> "فهم الطريقة التي تم بها حل مشكلة حقيقية."
+
+---
+
+# 4. IMPORTANT TRUTH RULE
+
+ممنوع اختلاق:
+
+* نتائج
+* أرقام
+* عملاء
+* شهادات
+* أرباح
+* نسب نمو
+* Awards
+* Reviews
+
+إذا كان المشروع:
+
+**Real Project**
+
+استخدم معلوماته الحقيقية فقط.
+
+إذا كان:
+
+**Concept**
+
+اكتب بوضوح:
+
+**Concept Project**
+
+إذا كان:
+
+**Demo**
+
+اكتب:
+
+**Demo**
+
+إذا كان:
+
+**Internal Project**
+
+اكتب:
+
+**Internal Project**
+
+الصدق جزء من الهوية.
+
+---
+
+# 5. PAGE STRUCTURE
+
+استخدم هذا الهيكل فقط:
+
+1. Header
+2. Hero
+3. Project Categories / Filter
+4. Featured Projects
+5. Project Grid
+6. How We Approach Projects
+7. Final CTA
+8. Footer
+
+لا تضف Sections لا تخدم الهدف.
+
+---
+
+# 6. HEADER
+
+استخدم Header الحالي من الموقع.
+
+لا تعيد تصميمه.
+
+حافظ على:
+
+* Logo
+* Navigation
+* CTA
+* Typography
+* Colors
+* Spacing
+* RTL
+
+يجب أن يشعر المستخدم أن `/projects` جزء طبيعي من الموقع.
+
+---
+
+# 7. HERO
+
+Hero مختصر جدًا.
+
+## Heading
+
+# **مشاريع بُنيت لتعمل.**
+
+## Supporting Copy
+
+> نعرض هنا نماذج من المواقع والأنظمة والتجارب الرقمية التي بنيناها، مع التركيز على المشكلة والحل وما تم تسليمه.
+
+لا تستخدم نصًا طويلًا.
+
+## CTA
+
+**ابدأ مشروعك**
+
+---
+
+# 8. HERO VISUAL
+
+لا تستخدم صورة Stock.
+
+استخدم Visual بسيط يمثل:
+
+**Projects / Interfaces / Systems**
+
+يمكن استخدام:
+
+* layered interfaces
+* project preview cards
+* device mockups
+* system modules
+
+لكن بدون ازدحام.
+
+---
+
+# 9. PROJECT FILTER
+
+إذا كان عدد المشاريع يسمح بذلك، استخدم Filter بسيط.
+
+الفئات:
+
+**الكل**
+
+**مواقع الأعمال**
+
+**المتاجر**
+
+**لوحات الإدارة**
+
+**الأنظمة المخصصة**
+
+**التكاملات والأتمتة**
+
+لا تضف 10–20 Filters.
+
+الفلتر يجب أن يساعد على الاكتشاف، وليس تعقيده.
+
+---
+
+# 10. FEATURED PROJECT
+
+أول مشروع يجب أن يكون Featured وليس مجرد Card أخرى.
+
+اعرضه بعرض أكبر.
+
+البنية:
+
+### اسم المشروع
+
+### النوع
+
+### حالة المشروع
+
+مثلاً:
+
+**Live / Concept / Demo / Internal**
+
+ثم:
+
+### المشكلة
+
+سطر أو سطران.
+
+### الحل
+
+سطر أو سطران.
+
+### ما تم بناؤه
+
+سطر مختصر.
+
+ثم:
+
+**عرض المشروع →**
+
+---
+
+# 11. PROJECT CARD
+
+كل بطاقة مشروع يجب أن تكون بسيطة.
+
+تحتوي فقط على:
+
+* Visual
+* Project Name
+* Category
+* Status
+* One-line description
+* CTA
+
+مثال:
+
+**Ordely**
+**Custom System**
+**Demo**
+
+> نظام لإدارة عمليات التجارة الإلكترونية.
+
+**عرض المشروع →**
+
+لا تضع داخل Card:
+
+* 8 Features
+* Problem paragraph
+* Solution paragraph
+* Technical stack
+* Huge descriptions
+
+هذه التفاصيل تذهب إلى صفحة المشروع.
+
+---
+
+# 12. PROJECT DETAILS PAGE
+
+كل مشروع يجب أن يكون قابلًا للفتح في:
+
+`/projects/[slug]`
+
+ولا تعتمد على Modal كواجهة أساسية للتفاصيل.
+
+صفحة المشروع ستكون لاحقًا:
+
+**Project Case Study**
+
+ولا تبنِ Case Study كاملة داخل `/projects`.
+
+---
+
+# 13. PROJECT DATA MODEL
+
+نظّم بيانات المشاريع بطريقة قابلة للتوسع.
+
+لكل مشروع:
+
+```text
+title
+slug
+category
+status
+shortDescription
+problem
+solution
+deliverables
+heroImage
+gallery
+tags
+featured
+```
+
+يمكن إضافة:
+
+```text
+client
+year
+liveUrl
+```
+
+لكن فقط عندما تكون المعلومات حقيقية ومتاحة.
+
+---
+
+# 14. VISUAL DIRECTION
+
+صفحة Projects يجب أن تكون:
+
+**Visual-first**
+
+المستخدم يجب أن يرى المشروع قبل أن يبدأ القراءة.
+
+استخدم:
+
+* Large screenshots
+* Clean mockups
+* device previews
+* generous whitespace
+* restrained borders
+* subtle shadows
+* consistent image ratios
+
+لا تجعل كل مشروع يبدو كأنه بطاقة صغيرة.
+
+---
+
+# 15. PROJECT VISUAL QUALITY
+
+يجب تجهيز صور المشاريع بحيث تكون:
+
+* واضحة
+* عالية الجودة
+* متناسقة في النسب
+* مناسبة للعرض على Desktop
+* مناسبة للـMobile
+* بدون تشويش
+* بدون إطار UI غير ضروري
+
+إذا كان المشروع يحتاج أكثر من صورة:
+
+استخدم:
+
+**Hero Preview + supporting screenshots**
+
+---
+
+# 16. PROJECT GRID
+
+بعد Featured Project، استخدم Grid متوازن.
+
+مثلاً:
+
+**2 columns Desktop**
+
+مع:
+
+* card size كبير
+* spacing واضح
+* consistent rhythm
+
+على Mobile:
+
+**1 column**
+
+لا تجعل Grid شديد الكثافة.
+
+---
+
+# 17. PROJECT STATUS
+
+استخدم حالة واضحة وموحدة:
+
+### Live
+
+مشروع يعمل فعليًا.
+
+### Concept
+
+تصور/مشروع مفاهيمي.
+
+### Demo
+
+نموذج تجريبي.
+
+### Internal
+
+مشروع داخلي.
+
+هذه الحالات مهمة لبناء الثقة ومنع الالتباس.
+
+---
+
+# 18. HOW WE APPROACH PROJECTS
+
+أضف قسمًا صغيرًا بعد المشاريع.
+
+## Heading
+
+**كل مشروع يبدأ من المشكلة.**
+
+ثم:
+
+**نفهم → نخطط → نبني → نطلق**
+
+لا تعيد عرض الـ12 مرحلة كاملة هنا.
+
+الهدف فقط تذكير الزائر بأن المشاريع ليست Templates جاهزة.
+
+---
+
+# 19. NO TECH STACK WALL
+
+لا تعرض:
+
+React
+Next.js
+Python
+Supabase
+PostgreSQL
+Tailwind
+Vercel
+
+على هيئة Logo wall.
+
+هذه الصفحة ليست Developer Portfolio.
+
+إذا كانت التقنيات مهمة لمشروع معين، تظهر في صفحة المشروع الفردية فقط، وبشكل ثانوي.
+
+---
+
+# 20. NO CASE STUDY OVERLOAD
+
+لا تحول Projects Homepage إلى مقال طويل.
+
+القاعدة:
+
+**Homepage Projects = Preview**
+
+**Project Details = Full Story**
+
+---
+
+# 21. FINAL CTA
+
+بعد المشاريع:
+
+## Heading
+
+**هل مشروعك هو المشروع التالي؟**
+
+### Supporting line
+
+> أخبرنا بما تريد بناءه، وسنبدأ من فهم فكرتك واحتياجك.
+
+### CTA
+
+**ابدأ مشروعك**
+
+Microcopy:
+
+**لا تحتاج إلى معرفة التفاصيل التقنية.**
+
+---
+
+# 22. VISUAL IDENTITY
+
+التزم بالهوية الحالية:
+
+**Light-first**
+
+**Premium**
+
+**Corporate**
+
+**Modern**
+
+**Spacious**
+
+**Editorial**
+
+**Precise**
+
+---
+
+# 23. COLORS
+
+استخدم نفس Design System الموجود حاليًا.
+
+لا تخترع Palette جديدة.
+
+Primary:
+
+**Blue من الشعار**
+
+Background:
+
+**White / Off-white**
+
+Text:
+
+**Near-black / Charcoal**
+
+Secondary:
+
+**Gray / Silver**
+
+Dark surfaces:
+
+محدودة.
+
+---
+
+# 24. TYPOGRAPHY
+
+نفس النظام الحالي.
+
+العناوين:
+
+* واضحة
+* قوية
+* قصيرة
+
+النص:
+
+* محدود
+* مريح
+* غير كثيف
+
+لا تجعل Project descriptions طويلة.
+
+---
+
+# 25. INTERACTION
+
+يمكن استخدام:
+
+* hover image zoom خفيف
+* subtle lift
+* reveal metadata
+* filter transitions
+* active states
+
+لكن بدون:
+
+* heavy animations
+* continuous movement
+* parallax مبالغ
+* decorative motion
+
+---
+
+# 26. MOBILE
+
+Mobile First.
+
+يجب أن تعمل الصفحة بشكل ممتاز على:
+
+* Mobile
+* Tablet
+* Desktop
+* Large Desktop
+
+في Mobile:
+
+* Filter يصبح scrollable أو dropdown مناسب
+* Project Cards تصبح عمودية
+* الصور تحافظ على ratio
+* النص يبقى مختصرًا
+* CTA واضح
+
+---
+
+# 27. ACCESSIBILITY
+
+دعم:
+
+* RTL
+* semantic HTML
+* keyboard navigation
+* focus states
+* accessible filters
+* accessible links
+* proper contrast
+* reduced motion
+
+إذا استخدمت Filter تفاعليًا، يجب أن يكون قابلًا للوصول عبر لوحة المفاتيح.
+
+---
+
+# 28. SEO
+
+Page title:
+
+**Projects | Orkestrix Systems**
+
+أو الصيغة العربية المناسبة لنظام الموقع.
+
+Meta description تشرح أن الصفحة تعرض:
+
+* Websites
+* E-commerce
+* Dashboards
+* Custom Systems
+
+طبّق:
+
+* canonical
+* OG metadata
+* proper heading structure
+* RTL
+* correct lang attribute
+
+---
+
+# 29. PERFORMANCE
+
+الأولوية للصور.
+
+استخدم:
+
+* WebP / AVIF عند الإمكان
+* responsive images
+* lazy loading للصور غير الظاهرة
+* optimized dimensions
+* no unnecessarily huge assets
+
+الـFeatured Project يمكن تحميله بشكل أسرع لأنه فوق الطية أو قريب منها.
+
+---
+
+# 30. EMPTY STATE
+
+إذا لم يكن عدد المشاريع كافيًا، لا تعرض Grid فارغًا أو Projects وهمية.
+
+استخدم رسالة صادقة مثل:
+
+> **نعمل حاليًا على إضافة مشاريع جديدة إلى المعرض.**
+
+ثم CTA:
+
+**لديك مشروع؟ ابدأ الآن.**
+
+---
+
+# 31. PROJECT ORDER
+
+الأولوية:
+
+1. Featured Project
+2. أقوى المشاريع
+3. مشاريع متنوعة
+4. Concepts / Demos
+
+لا ترتب المشاريع عشوائيًا.
+
+ترتيبها يجب أن يخدم:
+
+**التنوع + القوة + المصداقية**
+
+---
+
+# 32. ANTI-RANDOMNESS RULE
+
+قبل إضافة أي عنصر:
+
+### هل يساعد العميل على فهم المشروع؟
+
+إذا لا → احذفه.
+
+### هل يساعد على اكتشاف مشروع؟
+
+إذا لا → احذفه.
+
+### هل يساعد على بناء الثقة؟
+
+إذا لا → احذفه.
+
+### هل يساعد على بدء مشروع جديد؟
+
+إذا لا → غالبًا ليس ضروريًا.
+
+---
+
+# 33. DO NOT ADD
+
+ممنوع:
+
+* Pricing
+* Services duplication
+* Long company story
+* Fake statistics
+* Fake testimonials
+* Fake logos
+* Awards
+* Technology logo wall
+* Team section
+* Blog
+* Newsletter
+* excessive filters
+* huge paragraphs
+* stock photos
+
+---
+
+# 34. RELATION WITH OTHER PAGES
+
+## Homepage
+
+تعرض عددًا قليلاً من المشاريع.
+
+CTA:
+
+**شاهد جميع المشاريع**
+
+↓
+
+`/projects`
+
+---
+
+## Projects
+
+تعرض:
+
+**المشاريع + preview**
+
+↓
+
+`/projects/[slug]`
+
+---
+
+## Project Details
+
+تعرض:
+
+**القصة الكاملة للمشروع**
+
+↓
+
+**ابدأ مشروعك**
+
+---
+
+## Contact
+
+تستقبل:
+
+**Project Request**
+
+هذه البنية يجب أن تبقى واضحة.
+
+---
+
+# 35. FINAL USER EXPERIENCE
+
+بعد مشاهدة `/projects` يجب أن يشعر العميل:
+
+> **"هذه الشركة لا تعرض تصاميم فقط؛ أستطيع أن أرى أنواع المشاكل التي تستطيع حلها والأنظمة التي تستطيع بناءها."**
+
+---
+
+# 36. DEFINITION OF DONE
+
+صفحة Projects مكتملة فقط إذا:
+
+* متوافقة مع Homepage وServices
+* RTL
+* Responsive
+* Light / Premium
+* Visual-first
+* Projects واضحة
+* Status واضح
+* لا توجد ادعاءات غير مؤكدة
+* Filters تعمل
+* روابط المشاريع تعمل
+* CTA يعمل
+* SEO صحيح
+* Accessibility جيدة
+* Build ناجح
+* Console بدون أخطاء
+
+---
+
+# FINAL PRINCIPLE
+
+**لا تعرض المشاريع كصور.**
+
+اعرضها كـ:
+
+> **Problem → Solution → System**
+
+لكن في الصفحة الرئيسية للمشاريع، يظهر هذا المفهوم في صورة مختصرة جدًا.
+
+**Projects = Proof.**
+
+**Project Details = Story.**
+
+**Contact = Conversion.**
+
+ابدأ التنفيذ مباشرة باستخدام الهوية البصرية الحالية لـOrkestrix Systems، ولا تغيّر الـHeader أو الـFooter أو Design System المعتمد.

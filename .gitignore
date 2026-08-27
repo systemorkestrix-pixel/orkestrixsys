@@ -1,0 +1,74 @@
+# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Environment secrets — never commit these
+.env
+.env.*
+!.env.example
+!apps/**/.env.example
+
+# compiled output
+dist
+tmp
+out-tsc
+*.tsbuildinfo
+.expo
+.expo-shared
+
+# dependencies
+node_modules
+apps/api/data/
+apps/api/uploads/
+apps/api/dist/
+apps/api/apps/
+apps/web/test-results/
+apps/web/playwright-report/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
+
+# Local tooling
+.cache/
+.local/
+.agents/
+.conversation/
+
+# Obsolete local-runtime artefacts (production uses Supabase)
+backups/
+artifacts/
+
+# Vite
+apps/*/dist/
+
+# Browser tests
+apps/*/test-results/
+apps/*/playwright-report/
